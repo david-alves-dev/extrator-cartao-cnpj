@@ -1,4 +1,13 @@
 # extrator-cartao-cnpj
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Acessar Site](https://img.shields.io/badge/Acessar%20Site-00A846?style=for-the-badge&logo=robotframework&logoColor=white)](https://davidalves.dev/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/davidalves.dev)
+
+</div>
+
 Extrator de dados do Cartão CNPJ em PDF usando Python.
 
 ## ✨ Funcionalidades
@@ -51,6 +60,3 @@ telefone = extrator.telefone(texto)
 ├── extrator_cartao_cnpj.py
 └── README.md
 ```
-
-## 📄 Licença
-Defina aqui a licença do projeto, se desejar (ex.: MIT).

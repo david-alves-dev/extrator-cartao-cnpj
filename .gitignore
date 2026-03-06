@@ -1,1 +1,6 @@
+.venv/
+.env
+.idea/
+.gitignore
+.idea
 .DS_Store
